@@ -1,0 +1,3 @@
+name: Pomodoro Timer
+icon: ⏳
+description: Alternate focus and break sessions with a LED matrix countdown driven by Python® and Arduino cooperation.

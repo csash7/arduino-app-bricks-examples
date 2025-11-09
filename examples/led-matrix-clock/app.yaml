@@ -1,0 +1,3 @@
+name: LED Matrix Clock
+icon: 🕒
+description: Display a blinking digital clock on the UNO Q LED matrix using Router Bridge updates.
